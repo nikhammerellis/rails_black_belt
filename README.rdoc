@@ -1,27 +1,20 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The assignment for the Black Belt exam was to build a simple app where users can post their ideas and users can "like" 
+the idea posted. The "likes" are counted and displayed per post. Ideas are displayed by number of "likes" descending.
 
-Things you may want to cover:
+Required Features 
 
-* Ruby version
+* Login and Registration with validations and password encryption
 
-* System dependencies
+* Logged in users can post ideas, delete their own ideas, and like others ideas 
 
-* Configuration
+* Display ideas by count of likes (similiar to upvote/downvote) 
 
-* Database creation
+* User show page displays number of posts and number of likes they have posted 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I was finished with 90 percent of the exam by the two hour mark, not completed by this time was displaying 
+number of likes per post, and displaying ideas by amount of likes. 
 
 
 Please feel free to use a different markup language if you do not plan to run
